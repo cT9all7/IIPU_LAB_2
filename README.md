@@ -8,3 +8,7 @@ In file "lab2.c" change value read(), because value of symbols in file "pci.ids"
 
 command 
  .....  ~$ lspci -nn for test
+ 
+ 
+ 
+ please, fix the algorithm of searh ven and dev in "pci" 
